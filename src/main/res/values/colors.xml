@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eb4f38</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_color">#f1f1f1</color>
+    <color name="black">#000</color>
+    <color name="firebrick">#b22222</color>
+
+    <color name="gainsboro">#dcdcdc</color>
+
+    <color name="goldyellow">#ff9428</color>
+
+    <color name="blue">#0000ff</color>
+
+    <color name="border_color">#a9b7b7</color>
+
+    <color name="green_btn_color_pressed">#ff298409</color>
+    <color name="red_btn_color_normal">#ffff5454</color>
+    <color name="red_btn_color_pressed">#ffd24242</color>
+    <color name="red_btn_color_disable">#7fff5454</color>
+    <color name="grey_btn_color_normal">#fff1f1f1</color>
+    <color name="grey_btn_color_pressed">#ffd8d8d8</color>
+    <color name="grey_btn_color_disable">#7fd8d8d8</color>
+    <color name="grey_btn_stroke_color_normal">#ffbebebe</color>
+    <color name="grey_btn_stroke_color_pressed">#ff9e9e9e</color>
+    <color name="grey_btn_stroke_color_disable">#7f9e9e9e</color>
+    <color name="black_btn_color_normal">#00000000</color>
+    <color name="black_btn_color_pressed">#00000000</color>
+    <color name="black_btn_color_disable">#00000000</color>
+    <color name="black_btn_stroke_color_normal">#ffcfcfcf</color>
+    <color name="black_btn_stroke_color_pressed">#ff353535</color>
+    <color name="black_btn_stroke_color_disable">#7fcfcfcf</color>
+    <color name="normal_text_color">#ff353535</color>
+    <color name="normal_text_color_disable">#7f353535</color>
+    <color name="white_color_disable">#7fffffff</color>
+    <color name="darkgrey">#a9a9a9</color>
+
+    <color name="gray">#808080</color>
+    <color name="crimson">#dc143c</color>
+
+
+
+
+
+
+
+
+    <color name="app_green">#ff45c01a</color>
+    <color name="app_green_alpha">#7f45c01a</color>
+
+
+    <item type="color" name="green_btn_color_normal">@color/app_green</item>
+
+    <item type="color" name="green_btn_color_disable">@color/app_green_alpha</item>
+
+</resources>

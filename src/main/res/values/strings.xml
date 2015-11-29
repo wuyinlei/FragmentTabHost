@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LetGo</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">主页</string>
+    <string name="hot">热卖</string>
+    <string name="category">商品</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+
+</resources>
